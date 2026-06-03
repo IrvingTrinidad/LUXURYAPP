@@ -1,4 +1,4 @@
-# LUXURYAPP - Render + MongoDB Atlas
+# Love Match AI - Render + MongoDB Atlas
 
 Proyecto web tipo app de citas, hecho con Node.js, Express, HTML/EJS, CSS, MongoDB Atlas, Gemini API y botón de Google Maps.
 
