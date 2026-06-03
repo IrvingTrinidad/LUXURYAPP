@@ -1,0 +1,7 @@
+mongodb+sr
+
+GEMINIS:
+
+GOOGLE MAPS
+
+http://localhost:3000/login
