@@ -1,0 +1,29 @@
+{
+  "name": "luxuryapp",
+  "version": "1.0.0",
+  "description": "Web app tipo citas con MongoDB Atlas, Gemini y Google Maps lista para Render.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^5.1.0",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "ejs": "^3.1.10",
+    "express": "^4.22.2",
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.24.0",
+    "socket.io": "^4.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
